@@ -1,0 +1,9 @@
+Read me - in care sa prezentati cum se face login-ul, autentificarea in mod normal
+
+Autentificarea inseamna ca serverul valideaza identitatea unui utilizator folosind doar numele de utilizator
+si parlola.
+
+In cazul programului meu:
+Pentru register user verifica daca email-ul este unic, daca e valid si daca parola e valida.
+Pentru login verifica daca datele sunt introduse bine.
+Pentru operator, avand doar un cont deja existent cu user si parola, verifica doar daca introducem datele bine.
