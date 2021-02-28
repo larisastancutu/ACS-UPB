@@ -1,0 +1,23 @@
+Setul 4
+
+1. Sa se scrie un program in C care realizeaza evidenta studentilor din grupa careia apartineti folosind liste simplu inlantuite;
+
+Pentru fiecare student se retine numele, email si grupa.
+
+Programul principal va primi si executa, in mod repetat, urmatoarele comenzi:
+
+a= adauga un student nou in evidenta
+c= afiseaza adresa de email a unui student
+m= modifica adresa de email a unui student
+d= sterge un student din evidenta
+l= listeaza (afiseaza) toti studentii
+x= terminare program
+ Programul trebuie sa mai realizeze urmatoarele:
+
+        -adaugarea unui student nou dupa un anumit nod dat
+        -ordonarea listei de studenti
+        -elimina inregistrarile duplicate
+        -afiseaza numarul total de studenti inregistrati
+        -cautarea dupa nume
+        -cautarea dupa pozitie
+ 2. Care sunt avantajele/dezavantajele listelor inlantuite in comparatie cu vectori /arrays.

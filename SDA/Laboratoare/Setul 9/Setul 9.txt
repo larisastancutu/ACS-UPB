@@ -1,0 +1,21 @@
+Setul 9
+
+Fie un vector/array/tablou de 7 numere de tip int. Numerele pot fi citite fie din fisier, fie de la tastatura fie din codul sursa.
+
+1. 1 Sa se realizeze un program in C care sa aplice algoritmii de sortare de mai jos asupra unui vector de numere.
+
+1.2. Pentru unul din algoritmi de sortare de mai jos (la alegere) se va afisa detaliat pe consola fiecare etapa a sortarii. Pentru restul se vor implementa algoritmii si se va afisa direct rezultatul final.
+
+1.3. Pentru fiecare sortare se va comenta codul realizat
+
+Algoritmi de sortare
+
+-INSERTION SORT
+-SELECTION SORT
+-BUBBLE SORT
+-MERGE SORT
+-QUICK SORT
+-SHELL SORT
+-COUNTING SORT
+
+Tema se va realiza  fie intr-un singur fisier sau in fisiere separate.

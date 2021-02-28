@@ -1,0 +1,6 @@
+Setul 5
+
+1. Fie un sir de n numere de tip int, introduse de la tastatura ex. 23, 1,6,19,14,18,8,24,15.
+Sa sa scrie program in C care ordoneaza crescator numerele aplicand algoritmul de sortare Heap Sort.
+
+2. Implementati o stiva in C folosind liste inlantuite

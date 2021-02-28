@@ -1,0 +1,29 @@
+Setul 10
+
+1. Sa se scrie un program in C care gaseste toate caile de iesire dintr-un labirint. Labirintul este o matrice bi-dimensionala, cu elemente zero 0 si unu 1 1.   Unde avem 1 se poate realiza deplasarea, unde avem 0 nu se poate realiza deplasarea. Deplasarea se face pe orizontala si verticala intre oricare doua celule invecinate. Nu este permis sa se treaca de mai multe ori prin aceeasi celula.
+Punctul de start este elementul cel mai din stanga sus al matricei ex. m[0][0]. Destinatia este elementul  cel mai din dreapta jos m[size-1][size-1]
+ Ex.
+m[size][size]
+
+1 0 1 0 0
+1 1 1 1 1
+1 0 0 1 0
+1 1 0 1 1
+0 1 1 1 1
+
+2. Avem o tabla de sah de dimensiune 8x8. Sa se aseze pe tabla de sah 8 regine astfel incat sa nu existe doua regine care se ataca intre ele. Regina poate muta in linie dreapta in orice directie - inainte, inapoi, lateral sau in diagonala - atat timp cat nu trece prin oricare dintre piesele proprii. Ca si celelalte piese, in cazul in care regina captureaza o piesa de-a adversarului, mutarea ei se opreste.
+
+Realizati un program in c folosind metoda backtracking prin care afisati fie printr-o matrice fie printr-un vector pozitile posibile are reginelor.
+
+O posibila solutie vector [4,7,3,8,2,5,1,6].
+
+Matrice
+
+0 0 0 1 0 0 0 0
+0 0 0 0 0 0 1 0
+0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 1
+0 1 0 0 0 0 0 0
+0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0

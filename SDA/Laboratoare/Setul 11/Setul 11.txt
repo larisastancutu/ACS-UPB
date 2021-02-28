@@ -1,0 +1,11 @@
+Setul 11
+
+Fie n obiecte care au urmatoarele caracteristici: greutate, valoare.
+Aceste obiecte vrem sa le transportam cu un rucsac pentru a le comercializa.
+Pentru fiecare obiect se cunosc:
+- gi - greutatea obiectului
+- pi - valoarea unui obiect
+mai se cunoaste
+- gmax - greutatea maxima admisa pentru rucsac.
+
+Alegeti din cele n obiecte pentru a le pune in rucsac pe acelea care vor maximiza valoarea obiectelor dar nu vor depasi greutatea maxima admisa pentru rucsac.

@@ -1,0 +1,7 @@
+Setul 3
+
+1. Sa se scrie un program in C care permite utilizatorului introducerea elementelor a doua matrice de la tastatura. Pentru fiecare matrice se va specifica dimensiunea  si elementele acesteia. Realizati operatiile de adunare, inmultire a celor doua matrice folosind pointeri; afisati rezultatul operatiilor mentionate.
+
+2. Sa se scrie un program in C care afiseaza cuvintele care au mai mult de 2 vocale dintr-un sir de cuvinte introduse de la tastatura folosind pointeri.
+
+3. Sa se scrie un program in C care permite introducerea a x numere de la tastatura, sa se calculeze suma numerelor introduse folosind pointeri.

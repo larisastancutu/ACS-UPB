@@ -1,0 +1,6 @@
+Setul 1
+
+1.Scrieti un program C pentru a calcula factorialul unui numar.
+2.Scrieti un program C pentru a ridica un numar  n la putere p
+3.Scrieti un program C pentru a crea combinari de n luate cate k
+4.Scrieti un program in C care afisaza si calculeaza tabla inmultirii pentru un nr dat. Ex. pt numarul 7 avem 7x 1 = 7, 7x 2 =14 etc.

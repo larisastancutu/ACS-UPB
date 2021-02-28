@@ -1,0 +1,27 @@
+Setul 7
+
+Fie un fisier „sursa.txt“ cu textul de mai jos
+
+„La examen un student ia un bilet - nu stie. Ia altul - iarasi nu stie. Al treilea - de asemenea... si asa al patrulea, al cincilea... Profesorul il opreste si ii da nota "5". Ceilalti studenti se revolta:
+- Pentru ce?
+- Cum pentru ce? Dupa cum cauta, inseamna ca stie ceva.“
+
+Realizati un program in C care citeste textul din fisier si il cripteaza. In urma criptarii va fi generat un alt fisier de exemplu „rezultat.txt”
+
+Acesta va contine doar  o insiruire de numere.
+
+Ex: 1579142627006013926575100776171219566935299653016321166815606453013 ....
+
+ Fiecarui caracter din fisierul „sursa”(litera A-Z, semn de punctuatie (? !, . : ()  etc)) ii va corespunde  un numar in fisierul criptat (rezultat.txt).
+
+In cazul in care sunt mai multe paragrafe de text se va evidentia distinctia dintre acesta. Veti pune tab (spatiu) la inceput de paragraf in fisierul rezultat.txt
+
+Realizati o cheie de criptare prin care realizati corespondenta intre caracterele din fisierul „sursa.txt“ si numere rezultat.txt
+
+Exemplu A = 3, B = 7 etc.
+
+Realizati propria cheie de criptare/decriptare.
+
+Verificati daca programul functioneaza  de exemplu puteti trimite (prin email) colegului un alt text criptat si cheia de descriptare si sa il rugati sa va ofere rezultatul
+
+Puteti lucra in echipe de cate 2 studenti.

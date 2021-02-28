@@ -1,0 +1,10 @@
+Setul 6
+
+1.Sa se scrie un program in C care genereaza un graf. Se va specifica de la tastatura numarul de noduri (vertices), numarul de muchii (edges), perechile de noduri (u, v) pentru care exista muchii in graf.
+
+Parcurgerea grafurilor:
+-Parcurgerea in latime BFS – Breath First Search
+-Parcurgerea in adancime DFS – Depth First Search
+
+1.Implementati parcurgerea BFS a grafului pornind dintr-un nod ales.
+2.Implementati parcurgerea DFS a grafului pornind dintr-un nod ales.

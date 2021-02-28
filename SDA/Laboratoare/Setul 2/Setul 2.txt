@@ -1,0 +1,7 @@
+Setul 2
+
+Sa se scrie un program in limbajul de programare C care citeste 2 matrice A si B cu numere intregi dintr-un fisier text eg. Matrice.txt. Elementele matricelor pot fi separate prin spatiu si linie noua.
+
+Sa se realizeze operatiile de adunare, inmultire a matricelor; respectiv de  ridicare la putere a uneia dintre matrici.
+
+Rezultatul operatiilor de adunare, inmultire, ridicare la putere sa se scrie intr-un alt fisier text eg. Rezultat.txt

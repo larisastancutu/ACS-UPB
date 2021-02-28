@@ -1,0 +1,10 @@
+Setul 8
+
+Creati un program in C prin care sa implementati urmatoarele functii pentru un arbore binar:
+
+- adaugare nod
+- stergere nod
+- cautarea unui nod
+- parcurgere Preorder, Postorder, Inorder
+- identificare nod minim
+- identificare nod maxim
